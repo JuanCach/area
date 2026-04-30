@@ -1,1 +1,1 @@
-# area
+se realiza la practica del repositorio que subimos dos archivos que teníamos anteriormente ala rama principal los cuales corresponden a aplicaciones de estructuras condicionales, así mismo se creo una rama llamada respaldo donde volvimos a subir un mismo archivo y uno diferente 
